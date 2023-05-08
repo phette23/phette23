@@ -3,3 +3,5 @@ Hi :wave: I'm the Systems Librarian at [California College of the Arts Libraries
 I enjoy using and contributing to open source software. Some of my favorite work involves data munging, data visualization, metadata wrangling, full-stack web development, and integrating disparate systems using APIs. My favorite programming languages are Python and JavaScript.
 
 I'm an active member of the [Code4Lib](https://github.com/code4lib) community and tend to volunteer at every annual conference. If you see me, say hi! Meeting new folks is always welcome.
+  
+![my github statistics](https://github-readme-stats.vercel.app/api?username=phette23&theme=vue-dark&show_icons=true&count_private=true)
