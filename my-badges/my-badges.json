@@ -1,16 +1,9 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/phette23/code4lib.github.io/commit/a4fd4354f08d5a543445abdab8991d37f35fc7df\"><strong>a</strong>4fd4354f08d5a543445abdab8991d37f35fc7df</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/phette23/openApereo-2021-cli-prez/commit/abaf1808283754d29632d7c761f162db0f886f15\"><strong>ab</strong>af1808283754d29632d7c761f162db0f886f15</a>",
+    "body": "- <a href=\"https://github.com/cca/people-api/commit/abb239d86c0f242490af6d4b8d719b152b8dc5db\"><strong>ab</strong>b239d86c0f242490af6d4b8d719b152b8dc5db</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -52,15 +45,8 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 119 times)\n2. not (used 84 times)\n3. update (used 70 times)\n4. fix (used 44 times)\n5. notes (used 39 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 118 times)\n2. not (used 83 times)\n3. update (used 69 times)\n4. fix (used 44 times)\n5. notes (used 38 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/3d40ee39d778ce07ee6cd74698be177a27a28e0f\">3d40ee3</a>: fix(a11y): aria main landmark\n\nno reason for this to be a region when there's no main\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/e30425d4545732a2585d6c2c27d77da9986730dd\">e30425d</a>: fix(a11y): footnote font color contrast\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/96a682d296bd8159384985388163f40a26e6f358\">96a682d</a>: fix(ally): aria-hidden when descendent has focus problem",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "fix-4",
@@ -70,25 +56,11 @@
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/phette23/marcgreppy/commit/64dd8935b19e49c4e96a2e5232867a695819271e\">64dd893</a>: fix: print leader with --color flag\n- <a href=\"https://github.com/phette23/marcgreppy/commit/a1080a5b3dcf13795ef25b258e5962a7726da9dd\">a1080a5</a>: fix: use click.echo instead of print",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/23cd5e24ef824fdc9b9f26b882ef26c0d2a0c5c0\">23cd5e2</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/0b6d3b74483e2829b0759c383f891d159f6babab\">0b6d3b7</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/45faa7dd8e547080811a251507c68df89d393204\">45faa7d</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/efc47ea9a9e82abf5d6581b2741ba2b8ed18587f\">efc47ea</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/3047c16842336b795473b7a963f23f66191ff28b\">3047c16</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/3d40ee39d778ce07ee6cd74698be177a27a28e0f\">3d40ee3</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/e30425d4545732a2585d6c2c27d77da9986730dd\">e30425d</a>\n- <a href=\"https://github.com/cca/cca_invenio/commit/e69ce4a54e531de79d37b31e05c693cb359cd148\">e69ce4a</a>\n- <a href=\"https://github.com/cca/cca_invenio/commit/f1f2b62240558c0738734b14632b0ea286029d50\">f1f2b62</a>\n- <a href=\"https://github.com/cca/cca_invenio/commit/6a101df6658811ceeb21454ab808cfb31b1617bb\">6a101df</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "github-anniversary-5",
-    "tier": 0,
-    "desc": "I joined GitHub 5 years ago.",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
     "id": "github-anniversary-10",
@@ -105,81 +77,11 @@
     "image": "https://my-badges.github.io/my-badges/leap-day.png"
   },
   {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/phette23/koha-gifted-sql/commit/63308ad75e2f058657c9ea27acd8b09093fc07a8\">63308ad</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/phette23/koha-gifted-sql/commit/63308ad75e2f058657c9ea27acd8b09093fc07a8\">63308ad</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/phette23/Level-Counter/issues/3\">#3</a>: dagger character looks bad on Firefox for Android\n- <a href=\"https://github.com/cca/equella_cli/issues/2\">#2</a>: add command for determining item's location on file store\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/33\">#33</a>: Row block - give options as to width distribution\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/30\">#30</a>: Redo the ServicePage template\n- <a href=\"https://github.com/cca/libraries_branding/issues/13\">#13</a>: Summon - HTML panels for our special collections\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/57\">#57</a>: add structured schema.org data to page templates\n- <a href=\"https://github.com/cca/koha_snippets/issues/11\">#11</a>: better lists display\n- <a href=\"https://github.com/code4lib/code-of-conduct/issues/83\">#83</a>: contradiction in \"threats to physical safety\" section\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/108\">#108</a>: make search description required for most pages\n- <a href=\"https://github.com/cca/equella_cli/issues/14\">#14</a>: launch doesn't seem to copy to clipboard consistantly\n- <a href=\"https://github.com/cca/cca_invenio/issues/7\">#7</a>: Custom resource types\n- <a href=\"https://github.com/cca/cca_invenio/issues/13\">#13</a>: Metadata mapping\n- <a href=\"https://github.com/cca/equella_scripts/issues/29\">#29</a>: export: folder name collision with --name option\n- <a href=\"https://github.com/cca/cca_invenio/issues/12\">#12</a>: What vocabularies do we need to create\n- <a href=\"https://github.com/cca/cca_invenio/issues/6\">#6</a>: Experiment with static pages\n- <a href=\"https://github.com/cca/cca_invenio/issues/15\">#15</a>: Create users.yaml from Workday JSON\n- <a href=\"https://github.com/cca/cca_invenio/issues/11\">#11</a>: Admin panel\n- <a href=\"https://github.com/cca/equella_scripts/issues/32\">#32</a>: retention: alumni emails\n- <a href=\"https://github.com/cca/cca_invenio/issues/8\">#8</a>: Conditional fields based on resource type or community\n- <a href=\"https://github.com/cca/libraries-annual-stats-helpers/issues/1\">#1</a>: switch to 360 Admin API when it's ready\n- <a href=\"https://github.com/cca/cca_invenio/issues/25\">#25</a>: Add repository-cli\n- <a href=\"https://github.com/cca/cca_invenio/issues/10\">#10</a>: Test CalTech's change_owner script\n- <a href=\"https://github.com/cca/cca_invenio/issues/24\">#24</a>: Deployment\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/170\">#170</a>: Add TableBlock & convert collection & circ info on Library Data page\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/171\">#171</a>: Dark mode theme\n- <a href=\"https://github.com/cca/koha_qa/issues/2\">#2</a>: linkcheck - cli progress indicator\n- <a href=\"https://github.com/cca/cca_invenio/issues/26\">#26</a>: Block bots",
-    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/49\">#49</a>: announcement / alert banner for the website\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/8\">#8</a>: Port DMBA VAULT API to python?\n- <a href=\"https://github.com/cca/libraries_syllabus_notifications/issues/2\">#2</a>: sentence on course inaccuracies\n- <a href=\"https://github.com/code4lib/2019.code4lib.org/issues/218\">#218</a>: lessons learned for 2020\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/85\">#85</a>: dockerize\n- <a href=\"https://github.com/cca/koha_snippets/issues/28\">#28</a>: Investigate reports of disappearing serials barcodes\n- <a href=\"https://github.com/cca/cca_invenio/issues/2\">#2</a>: Cloud storage setup\n- <a href=\"https://github.com/cca/cca_invenio/issues/3\">#3</a>: SSO\n- <a href=\"https://github.com/cca/cca_invenio/issues/9\">#9</a>: Roles research\n- <a href=\"https://github.com/cca/moodle-styles/issues/35\">#35</a>: visual indicator whether course is visible or not",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
-  },
-  {
-    "id": "old-issue-3",
-    "tier": 3,
-    "desc": "I closed an issue that was open for 3 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/cca/libraries_bookreader/issues/3\">#3</a>: can we put more information in the \"About this book\" modal dialog?\n- <a href=\"https://github.com/cca/libraries_course_lists/issues/1\">#1</a>: non-ascii characters in names crash the `uptaxo` script\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/62\">#62</a>: impossible to make links open in a new window\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/121\">#121</a>: upgrade to most recent Wagtail\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/152\">#152</a>: migrate to webpack",
-    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
-  },
-  {
-    "id": "old-issue-4",
-    "tier": 4,
-    "desc": "I closed an issue that was open for 4 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/cca/equella_templates/issues/3\">#3</a>: <pre> tags around long text fields in assignment collections\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/95\">#95</a>: refine home page text boxes\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/109\">#109</a>: preview pages served from cache\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/119\">#119</a>: index image file names in ES\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/116\">#116</a>: Research Wagtail oEmbed",
-    "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
-  },
-  {
-    "id": "old-issue-5",
-    "tier": 5,
-    "desc": "I closed an issue that was open for 5 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/cca/equella_cli/issues/5\">#5</a>: documentation\n- <a href=\"https://github.com/cca/libraries_wagtail/issues/86\">#86</a>: Animated GIF support",
-    "image": "https://my-badges.github.io/my-badges/old-issue-5.png"
-  },
-  {
-    "id": "old-issue-6",
-    "tier": 6,
-    "desc": "I closed an issue that was open for 6 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/cca/equella_scripts/issues/1\">#1</a>: port Makefile over to package.json scripts\n- <a href=\"https://github.com/phette23/wdpla-ext/issues/3\">#3</a>: Create options page",
-    "image": "https://my-badges.github.io/my-badges/old-issue-6.png"
-  },
-  {
-    "id": "old-issue-7",
-    "tier": 7,
-    "desc": "I closed an issue that was open for 7 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/phette23/wdpla-ext/issues/1\">#1</a>: Should queries be wrapped in quotes?\n- <a href=\"https://github.com/cca/libraries_syllabus_notifications/issues/1\">#1</a>: can we add schema.org actions to emails?\n- <a href=\"https://github.com/cca/koha_snippets/issues/7\">#7</a>: admin - list basket/order info on serials/subscription-detail.pl page",
-    "image": "https://my-badges.github.io/my-badges/old-issue-7.png"
-  },
-  {
-    "id": "old-issue-8",
-    "tier": 8,
-    "desc": "I closed an issue that was open for 8 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/cca/equella_language/issues/1\">#1</a>: incoherent \"download\" page",
-    "image": "https://my-badges.github.io/my-badges/old-issue-8.png"
-  },
-  {
-    "id": "old-issue-9",
-    "tier": 9,
-    "desc": "I closed an issue that was open for 9 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/phette23/wdpla-ext/issues/5\">#5</a>: Genericized Framework / Europeana",
-    "image": "https://my-badges.github.io/my-badges/old-issue-9.png"
   },
   {
     "id": "old-issue-10",

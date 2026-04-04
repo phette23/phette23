@@ -3,7 +3,6 @@ Hi :wave: I'm the Systems Librarian at [California College of the Arts Libraries
 I enjoy using and contributing to open source software. Some of my favorite work involves data munging, data visualization, metadata wrangling, full-stack web development, and integrating disparate systems using APIs. I'm an active member of the [Code4Lib](https://github.com/code4lib) community and volunteer at every annual conference. If you see me, say hi! Meeting new folks is always welcome.
 
 <!-- my-badges start -->
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; once." title="I pushed a commit with &quot;cafe&quot; once." width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
@@ -11,24 +10,11 @@ I enjoy using and contributing to open source software. Some of my favorite work
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
 <a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; once." title="I pushed a commit with &quot;dead&quot; once." width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
-<a href="my-badges/fix-3.md"><img src="https://my-badges.github.io/my-badges/fix-3.png" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
 <a href="my-badges/fix-4.md"><img src="https://my-badges.github.io/my-badges/fix-4.png" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
-<a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
-<a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
 <a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
 <a href="my-badges/leap-day.md"><img src="https://my-badges.github.io/my-badges/leap-day.png" alt="Happy February 29th! I committed on a Leap Day!" title="Happy February 29th! I committed on a Leap Day!" width="64"></a>
-<a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/mass-delete-commit-10k.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
-<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
-<a href="my-badges/old-issue-2.md"><img src="https://my-badges.github.io/my-badges/old-issue-2.png" alt="I closed an issue that was open for 2 years" title="I closed an issue that was open for 2 years" width="64"></a>
-<a href="my-badges/old-issue-3.md"><img src="https://my-badges.github.io/my-badges/old-issue-3.png" alt="I closed an issue that was open for 3 years" title="I closed an issue that was open for 3 years" width="64"></a>
-<a href="my-badges/old-issue-4.md"><img src="https://my-badges.github.io/my-badges/old-issue-4.png" alt="I closed an issue that was open for 4 years" title="I closed an issue that was open for 4 years" width="64"></a>
-<a href="my-badges/old-issue-5.md"><img src="https://my-badges.github.io/my-badges/old-issue-5.png" alt="I closed an issue that was open for 5 years" title="I closed an issue that was open for 5 years" width="64"></a>
-<a href="my-badges/old-issue-6.md"><img src="https://my-badges.github.io/my-badges/old-issue-6.png" alt="I closed an issue that was open for 6 years" title="I closed an issue that was open for 6 years" width="64"></a>
-<a href="my-badges/old-issue-7.md"><img src="https://my-badges.github.io/my-badges/old-issue-7.png" alt="I closed an issue that was open for 7 years" title="I closed an issue that was open for 7 years" width="64"></a>
-<a href="my-badges/old-issue-8.md"><img src="https://my-badges.github.io/my-badges/old-issue-8.png" alt="I closed an issue that was open for 8 years" title="I closed an issue that was open for 8 years" width="64"></a>
-<a href="my-badges/old-issue-9.md"><img src="https://my-badges.github.io/my-badges/old-issue-9.png" alt="I closed an issue that was open for 9 years" title="I closed an issue that was open for 9 years" width="64"></a>
 <a href="my-badges/old-issue-10.md"><img src="https://my-badges.github.io/my-badges/old-issue-10.png" alt="I closed an issue that was open for 10 years" title="I closed an issue that was open for 10 years" width="64"></a>
 <a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
