@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 116 times)\n2. not (used 83 times)\n3. update (used 69 times)\n4. fix (used 44 times)\n5. notes (used 38 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 116 times)\n2. not (used 83 times)\n3. update (used 69 times)\n4. fix (used 45 times)\n5. notes (used 38 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/e2fb0f45fc1ebb28aa1aeff99c2239b566fd9307\">e2fb0f4</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/68808ba6a0e7b7d4846dbbe2031e0fac9986f028\">68808ba</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/32caf09e68901cb5a0128bfad852d7d145a28ba6\">32caf09</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/1301391f90dbf39ac9f94566d0d9731be0c225db\">1301391</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/2242bffc66f82d699d8c04e350c3b4ec2cf92143\">2242bff</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/76f58a58fe25f6d565699e23549694698cb4c2bc\">76f58a5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/phette23/marcgreppy/commit/3f4ca0835c469336749e6221773eb724a343270d\">3f4ca08</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/e2fb0f45fc1ebb28aa1aeff99c2239b566fd9307\">e2fb0f4</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/68808ba6a0e7b7d4846dbbe2031e0fac9986f028\">68808ba</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/32caf09e68901cb5a0128bfad852d7d145a28ba6\">32caf09</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/1301391f90dbf39ac9f94566d0d9731be0c225db\">1301391</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/2242bffc66f82d699d8c04e350c3b4ec2cf92143\">2242bff</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
