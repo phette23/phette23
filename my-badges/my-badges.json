@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 112 times)\n2. not (used 84 times)\n3. update (used 71 times)\n4. fix (used 45 times)\n5. notes (used 38 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 112 times)\n2. not (used 84 times)\n3. update (used 72 times)\n4. fix (used 45 times)\n5. notes (used 38 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/phette23/marcgreppy/commit/1ecb4f9f36075263e83873cf771598bf6918774f\">1ecb4f9</a>\n- <a href=\"https://github.com/phette23/marcgreppy/commit/d9279a0243f08e8567e7751d4ff6ff091fade19d\">d9279a0</a>\n- <a href=\"https://github.com/phette23/marcgreppy/commit/0f885c3633549e2fcc65e21bc8b7857bdcc8cf1d\">0f885c3</a>\n- <a href=\"https://github.com/phette23/marcgreppy/commit/3f4ca0835c469336749e6221773eb724a343270d\">3f4ca08</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/e2fb0f45fc1ebb28aa1aeff99c2239b566fd9307\">e2fb0f4</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/68808ba6a0e7b7d4846dbbe2031e0fac9986f028\">68808ba</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/phette23/marcgreppy/commit/8b719743eb5a54b046d8e30276487a881ac2019d\">8b71974</a>\n- <a href=\"https://github.com/phette23/marcgreppy/commit/1ecb4f9f36075263e83873cf771598bf6918774f\">1ecb4f9</a>\n- <a href=\"https://github.com/phette23/marcgreppy/commit/d9279a0243f08e8567e7751d4ff6ff091fade19d\">d9279a0</a>\n- <a href=\"https://github.com/phette23/marcgreppy/commit/0f885c3633549e2fcc65e21bc8b7857bdcc8cf1d\">0f885c3</a>\n- <a href=\"https://github.com/phette23/marcgreppy/commit/3f4ca0835c469336749e6221773eb724a343270d\">3f4ca08</a>\n- <a href=\"https://github.com/phette23/c4l26-prez/commit/e2fb0f45fc1ebb28aa1aeff99c2239b566fd9307\">e2fb0f4</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -173,5 +173,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/cca/cca_invenio/commit/8525fc3fccff74a12bf5371fae27e1e9f83b3477\">8525fc3</a>\n- <a href=\"https://github.com/cca/cca_invenio/commit/88e90b7ec402864c31fbb1cb0c41dc2091b8b507\">88e90b7</a>\n- <a href=\"https://github.com/cca/cca_invenio/commit/9a68c2bad9a44ea686b46d81c00311bb5d6920ff\">9a68c2b</a>\n- <a href=\"https://github.com/cca/cca_invenio/commit/a487949c2a4c8844e3662645edbdad05b3cc811c\">a487949</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/pnpm/pnpm/issues/11528\">11 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
